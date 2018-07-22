@@ -1,0 +1,15 @@
+#
+# SuperFreedomMod 1.0 Admin List
+#
+
+super_:
+  username: Super_
+  active: true
+  rank: SENIOR
+  ips:
+  - 127.0.0.1
+  last_login: Wed, 2 Apr 2016 16:08:39 +0200
+  login_message: 'the &9Owner'
+  command_spy: false
+  potion_spy: false
+  logstick: false
